@@ -1,1 +1,1 @@
-# Java_Proj
+# java-project
